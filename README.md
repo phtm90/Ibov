@@ -2,6 +2,7 @@
 Rentabilidade de 5 diferentes ativos do Ibovespa (Prio3, Mglu3, Wege3, Petr4 e Bbdc4)
 
 Calculo de Beta de Ações com relação ao Ibovespa
+
 Beta = 1
 Esse resultado demonstra que a ação poderá se movimentar na mesma direção que o mercado. Nesse sentido, o seu risco é igual ao risco sistemático do mercado. Ou seja, caso o mercado suba 10%, a ação tende a subir 10%. O mesmo é aplicado em um cenário de queda.
 
